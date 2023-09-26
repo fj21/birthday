@@ -34,12 +34,13 @@ var config = {
      */
     imgs: {
         "安乐窝~": "baobao.jpg",
+        "这是我们在一起的":"together.jpeg",
         // "今天是你的生日": "./imgs/birthday.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
         turn_on: "开始",
-        play: "音乐",
+        play: "音乐(先调小音量哦)",
         bannar_coming: "颜色",
         balloons_flying: "好像少点东西",
         cake_fadein: "蛋糕",
