@@ -48,7 +48,7 @@ var config = {
         "吸吸":"hehe2.jpg", 
         "我的小可爱":"lovely.jpg",
         "窝爱你哦":"loveBest.jpg",
-        "火锅，烧烤，串串~":"meijian.jpg",
+        "火锅，烧烤，串串~":"meijian.jpeg",
         "嘿嘿~":"hehe.jpg",
         // "今天是你的生日": "./imgs/birthday.jpg",
     },
